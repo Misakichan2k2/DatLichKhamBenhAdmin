@@ -1,27 +1,29 @@
 <script setup>
 import DoctorInfo from "./DoctorInfo.vue";
 import Introduction from "./Introduction.vue";
-import TryProject from "./TryProject.vue";
+import Profile from "./Proflie.vue";
+import Review from "./Review.vue";
+import Appointment from "./Appointment.vue";
+import Revenue from "./Revenue.vue";
 </script>
 
 <template>
   <div class="surface-overlay">
     <!-- Introduction -->
-    <Introduction></Introduction>
+    <!-- <Introduction></Introduction> -->
 
-    <TryProject></TryProject>
     <!-- Doctor Info -->
-    <DoctorInfo></DoctorInfo>
+    <!-- <DoctorInfo></DoctorInfo> -->
+
+    <!-- Profile -->
+    <Profile />
+    <!-- Dat Lich -->
+    <!-- <Appointment /> -->
+    <!-- <Review /> -->
+    <!-- <Review /> -->
+    <!-- <UnReviewPage /> -->
+    <!-- <Revenue /> -->
   </div>
 </template>
 
-<style>
-*,
-*:before,
-*:after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-}
-</style>
+<style></style>

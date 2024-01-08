@@ -111,6 +111,7 @@ const responsiveOptions = ref([
           </p>
           <div class="horizontal-line2"></div>
         </div>
+        <hr class="w-10rem" />
       </div>
       <div class="card">
         <Carousel

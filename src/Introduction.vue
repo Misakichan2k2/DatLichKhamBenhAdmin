@@ -2,16 +2,9 @@
 
 <template>
   <div class="flex flex-column gap-5">
-    <div class="h-26rem">
-      <img
-        src="../public/images/background1.jpg"
-        class="w-full h-full"
-        style="object-fit: cover"
-      />
-    </div>
     <div>
       <span
-        class="text-2xl text-blue-800 font-semibold flex justify-content-center"
+        class="text-3xl text-blue-800 font-semibold flex justify-content-center"
         >CHÀO MỪNG BẠN ĐẾN VỚI NHA KHOA MINH THU !</span
       >
       <div class="px-7 py-5 flex flex-column gap-3 line-height-3 text-justify">
